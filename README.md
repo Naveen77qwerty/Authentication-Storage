@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` file tailored for your password manager project on GitHub:
-
----
-
 # 🔐 Secure Password Manager
 
 A command-line based password manager written in Python that allows you to **store**, **generate**, **update**, **view**, and **delete** encrypted passwords securely using hashing and encryption techniques.
